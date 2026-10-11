@@ -38,7 +38,6 @@ The datasets are provided in `AdventureWorks_Datasets.zip`.
 ### 4. Top 5 Products by Gross Profit
 ![Top 5 Products](Yop%205%20products%20by%20gross%20profit.png)
 
-## How to Run the Project
 
 ## Key Business Insights
 
@@ -50,6 +49,9 @@ The datasets are provided in `AdventureWorks_Datasets.zip`.
 ## Business Value
 
 This analysis helps businesses understand sales performance, evaluate product profitability, identify important customer segments, and make data-driven decisions to improve revenue and business growth.
+
+
+## How to Run the Project
 
 1. Download or clone this repository.
 2. Extract `AdventureWorks_Datasets.zip` into the project folder.
