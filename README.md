@@ -40,6 +40,17 @@ The datasets are provided in `AdventureWorks_Datasets.zip`.
 
 ## How to Run the Project
 
+## Key Business Insights
+
+- **Monthly Revenue Trend:** Analyzed monthly sales revenue to identify growth patterns and changes in business performance over time.
+- **Customer Age Group Analysis:** Examined revenue distribution across customer age groups to understand purchasing contributions from different segments.
+- **Country-wise Revenue Analysis:** Compared revenue across countries to identify key geographical markets and regional sales performance.
+- **Product Profitability Analysis:** Identified the top five products by gross profit to highlight products contributing significantly to profitability.
+
+## Business Value
+
+This analysis helps businesses understand sales performance, evaluate product profitability, identify important customer segments, and make data-driven decisions to improve revenue and business growth.
+
 1. Download or clone this repository.
 2. Extract `AdventureWorks_Datasets.zip` into the project folder.
 3. Install the required libraries:
